@@ -1,5 +1,5 @@
-# Codewars
+# CodeWars
 
-My Codewars badge:
+My CodeWars badge:
 
-https://www.codewars.com/users/deathlezz/badges/large
+!()[https://www.codewars.com/users/deathlezz/badges/large]
