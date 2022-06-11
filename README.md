@@ -1,3 +1,5 @@
 # Codewars
-This repository contains all my finished katas.
-# https://www.codewars.com/users/deathlezz/badges/large
+
+My Codewars badge:
+
+https://www.codewars.com/users/deathlezz/badges/large
