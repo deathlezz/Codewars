@@ -9,4 +9,5 @@
 - [Reversed sequence](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Reversed_sequence.swift) - [Codewars](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/swift)
 - [To square(root) or not to square(root)](https://github.com/deathlezz/Codewars/blob/main/8_KYU/To_square(root)_or_not_to_square(root).swift) - [Codewars](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/train/swift)
 - [Square(n) Sum](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Square(n)_Sum.swift) - [Codewars](https://www.codewars.com/kata/515e271a311df0350d00000f/train/swift)
+- [Convert a Boolean to a String](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_a_Boolean_to_a_String.swift) - [Codewars](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/swift)
 
