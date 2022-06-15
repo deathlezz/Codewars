@@ -11,4 +11,5 @@
 - [Square(n) Sum](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Square(n)_Sum.swift) - [Codewars](https://www.codewars.com/kata/515e271a311df0350d00000f/train/swift)
 - [Convert a Boolean to a String](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_a_Boolean_to_a_String.swift) - [Codewars](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/swift)
 - [Simple multiplication](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Simple_multiplication.swift) - [Codewars](https://www.codewars.com/kata/583710ccaa6717322c000105/train/swift)
+- [Convert number to reversed array of digits](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_number_to_reversed_array_of_digits.swift) - [Codewars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/swift)
 
