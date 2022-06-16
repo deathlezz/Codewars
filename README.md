@@ -13,4 +13,5 @@
 - [Simple multiplication](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Simple_multiplication.swift) - [Codewars](https://www.codewars.com/kata/583710ccaa6717322c000105/train/swift)
 - [Convert number to reversed array of digits](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_number_to_reversed_array_of_digits.swift) - [Codewars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/swift)
 - [Returning Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Returning_Strings.swift) - [Codewars](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/swift)
+- [Stringy Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Stringy_Strings.swift) - [Codewars](https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/swift)
 
