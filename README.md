@@ -14,4 +14,5 @@
 - [Convert number to reversed array of digits](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_number_to_reversed_array_of_digits.swift) - [Codewars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/swift)
 - [Returning Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Returning_Strings.swift) - [Codewars](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/swift)
 - [Stringy Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Stringy_Strings.swift) - [Codewars](https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/swift)
+- [Find the first non-consecutive number](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Find_the_first_non-consecutive_number.swift) - [Codewars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/swift)
 
