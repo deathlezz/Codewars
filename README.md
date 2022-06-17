@@ -18,4 +18,5 @@
 - [Beginner - Lost Without a Map
 ](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Beginner_-_Lost_Without_a_Map.swift) - [Codewars](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/swift)
 - [Gravity Flip](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Gravity_Flip.swift) - [Codewars](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train/swift)
+- [Difference of Volumes of Cuboids](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Difference_of_Volumes_of_Cuboids.swift) - [Codewars](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/swift)
 
