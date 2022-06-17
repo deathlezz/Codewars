@@ -15,4 +15,6 @@
 - [Returning Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Returning_Strings.swift) - [Codewars](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/swift)
 - [Stringy Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Stringy_Strings.swift) - [Codewars](https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/swift)
 - [Find the first non-consecutive number](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Find_the_first_non-consecutive_number.swift) - [Codewars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/swift)
+- [Beginner - Lost Without a Map
+](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Beginner_-_Lost_Without_a_Map.swift) - [Codewars](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/swift)
 
