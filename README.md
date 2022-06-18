@@ -20,4 +20,5 @@
 - [Gravity Flip](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Gravity_Flip.swift) - [Codewars](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train/swift)
 - [Difference of Volumes of Cuboids](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Difference_of_Volumes_of_Cuboids.swift) - [Codewars](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/swift)
 - [Enumerable Magic #25 - Take the First N Elements](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Enumerable_Magic_%2325_-_Take_the_First_N_Elements.swift) - [Codewars](https://www.codewars.com/kata/545afd0761aa4c3055001386/train/swift)
+- [Sum of positive](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Sum_of_positive.swift) - [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/swift)
 
