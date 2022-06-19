@@ -24,4 +24,5 @@
 - [Sum The Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Sum_The_Strings.swift) - [Codewars](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/swift)
 - [Is n divisible by x and y?](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Is_n_divisible_by_x_and_y%3F.swift) - [Codewars](https://www.codewars.com/kata/5545f109004975ea66000086/train/swift)
 - [Reversed Strings](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Reversed_Strings.swift) - [Codewars](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/swift)
+- [Expressions Matter](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Expressions_Matter.swift) - [Codewars](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/swift)
 
