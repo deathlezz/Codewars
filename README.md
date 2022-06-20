@@ -27,4 +27,5 @@
 - [Expressions Matter](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Expressions_Matter.swift) - [Codewars](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/swift)
 - [Grasshopper - Check for factor](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Grasshopper_-_Check_for_factor.swift) - [Codewars](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/swift)
 - [Quarter of the year](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Quarter_of_the_year.swift) - [Codewars](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/swift)
+- [Grasshopper - Grade book](https://github.com/deathlezz/Codewars/tree/main/8_KYU) - [Codewars](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/swift)
 
