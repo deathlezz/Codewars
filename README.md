@@ -31,4 +31,5 @@
 - [Is he gonna survive?](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Is_he_gonna_survive%3F.swift) - [Codewars](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/swift)
 - [Calculate BMI](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Calculate_BMI.swift) - [Codewars](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/swift)
 - [Convert boolean values to strings 'Yes' or 'No'](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_boolean_values_to_strings_'Yes'_or_'No'.swift) - [Codewars](https://www.codewars.com/kata/53369039d7ab3ac506000467/train/swift)
+- [Switch it Up!](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Switch_it_Up!.swift) - [Codewars](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/swift)
 
