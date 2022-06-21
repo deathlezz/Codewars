@@ -29,4 +29,5 @@
 - [Quarter of the year](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Quarter_of_the_year.swift) - [Codewars](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/swift)
 - [Grasshopper - Grade book](https://github.com/deathlezz/Codewars/tree/main/8_KYU) - [Codewars](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/swift)
 - [Is he gonna survive?](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Is_he_gonna_survive%3F.swift) - [Codewars](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/swift)
+- [Calculate BMI](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Calculate_BMI.swift) - [Codewars](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/swift)
 
