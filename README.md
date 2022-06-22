@@ -33,4 +33,5 @@
 - [Convert boolean values to strings 'Yes' or 'No'](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Convert_boolean_values_to_strings_'Yes'_or_'No'.swift) - [Codewars](https://www.codewars.com/kata/53369039d7ab3ac506000467/train/swift)
 - [Switch it Up!](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Switch_it_Up!.swift) - [Codewars](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/swift)
 - [Transportation on vacation](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Transportation_on_vacation.swift) - [Codewars](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/swift)
+- [Century From Year](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Century_From_Year.swift) - [Codewars](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/swift)
 
