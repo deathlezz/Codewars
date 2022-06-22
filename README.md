@@ -34,4 +34,5 @@
 - [Switch it Up!](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Switch_it_Up!.swift) - [Codewars](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/swift)
 - [Transportation on vacation](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Transportation_on_vacation.swift) - [Codewars](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/swift)
 - [Century From Year](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Century_From_Year.swift) - [Codewars](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/swift)
+- [Get Nth Even Number](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Get_Nth_Even_Number.swift) - [Codewars](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed/train/swift)
 
