@@ -37,4 +37,5 @@
 - [Get Nth Even Number](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Get_Nth_Even_Number.swift) - [Codewars](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed/train/swift)
 - [Beginner Series #2 Clock](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Beginner_Series_%232_Clock.swift) - [Codewars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/swift)
 - [Grasshopper - Terminal game move function](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Grasshopper_-_Terminal_game_move_function.swift) - [Codewars](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/train/swift)
+- [Grasshopper - Summation](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Grasshopper_-_Summation.swift) - [Codewars](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/swift)
 
