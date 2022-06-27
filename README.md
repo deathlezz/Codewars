@@ -41,4 +41,5 @@
 - [Kata Example Twist](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Kata_Example_Twist.swift) - [Codewars](https://www.codewars.com/kata/525c1a07bb6dda6944000031/train/swift)
 - [Get the mean of an array](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Get_the_mean_of_an_array.swift) - [Codewars](https://www.codewars.com/kata/563e320cee5dddcf77000158/train/swift)
 - [Multiplication table for number](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Multiplication_table_for_number.swift) - [Codewars](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/swift)
+- [Sum Mixed Array](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Sum_Mixed_Array.swift) - [Codewars](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/swift)
 
