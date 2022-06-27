@@ -43,4 +43,5 @@
 - [Multiplication table for number](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Multiplication_table_for_number.swift) - [Codewars](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/swift)
 - [Sum Mixed Array](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Sum_Mixed_Array.swift) - [Codewars](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/swift)
 - [A wolf in sheep's clothing](https://github.com/deathlezz/Codewars/blob/main/8_KYU/A_wolf_in_sheep's_clothing.swift) - [Codewars](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/swift)
+- [Dollars and Cents](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Dollars_and_Cents.swift) - [Codewars](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/swift)
 
