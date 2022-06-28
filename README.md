@@ -3,6 +3,8 @@
 ### This repository contains all my completed katas on [Codewars](https://www.codewars.com/kata/search/swift?q=&beta=false).
 # [![](https://www.codewars.com/users/deathlezz/badges/large)](https://www.codewars.com/users/deathlezz)
 
+[8 KYU](https://github.com/deathlezz/Codewars#8-kyu) ‎ | ‎ [7 KYU](https://github.com/deathlezz/Codewars#7-kyu)
+
 ### 8 KYU
 - [Fake Binary](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Fake_Binary.swift) - [Codewars](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/swift)
 - [Even or Odd](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Even_or_Odd.swift) - [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/swift)
@@ -45,3 +47,5 @@
 - [A wolf in sheep's clothing](https://github.com/deathlezz/Codewars/blob/main/8_KYU/A_wolf_in_sheep's_clothing.swift) - [Codewars](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/swift)
 - [Dollars and Cents](https://github.com/deathlezz/Codewars/blob/main/8_KYU/Dollars_and_Cents.swift) - [Codewars](https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/swift)
 
+### 7 KYU
+- [Mumbling](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Mumbling.swift) - [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/swift)
