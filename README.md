@@ -51,3 +51,4 @@
 - [Mumbling](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Mumbling.swift) - [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/swift)
 - [Jaden Casing Strings](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Jaden_Casing_Strings.swift) - [Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/swift)
 - [Strong Number (Special Numbers Series #2)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Strong_Number_(Special_Numbers_Series_%232).swift) - [Codewars](https://www.codewars.com/kata/5a4d303f880385399b000001/train/swift)
+- [Moves in squared strings (I)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Moves_in_squared_strings_(I).swift) - [Codewars](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/swift)
