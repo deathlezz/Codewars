@@ -53,3 +53,4 @@
 - [Strong Number (Special Numbers Series #2)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Strong_Number_(Special_Numbers_Series_%232).swift) - [Codewars](https://www.codewars.com/kata/5a4d303f880385399b000001/train/swift)
 - [Moves in squared strings (I)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Moves_in_squared_strings_(I).swift) - [Codewars](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/swift)
 - [Easy wallpaper](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Easy_wallpaper.swift) - [Codewars](https://www.codewars.com/kata/567501aec64b81e252000003/train/swift)
+- [Count the Digit](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Count_the_Digit.swift) - [Codewars](https://www.codewars.com/kata/566fc12495810954b1000030/train/swift)
