@@ -55,3 +55,4 @@
 - [Easy wallpaper](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Easy_wallpaper.swift) - [Codewars](https://www.codewars.com/kata/567501aec64b81e252000003/train/swift)
 - [Count the Digit](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Count_the_Digit.swift) - [Codewars](https://www.codewars.com/kata/566fc12495810954b1000030/train/swift)
 - [Waiting room](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Waiting_room.swift) - [Codewars](https://www.codewars.com/kata/542f0c36d002f8cd8a0005e5/train/swift)
+- [Triangular Treasure](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Triangular_Treasure.swift) - [Codewars](https://www.codewars.com/kata/525e5a1cb735154b320002c8/train/swift)
