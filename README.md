@@ -54,3 +54,4 @@
 - [Moves in squared strings (I)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Moves_in_squared_strings_(I).swift) - [Codewars](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/swift)
 - [Easy wallpaper](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Easy_wallpaper.swift) - [Codewars](https://www.codewars.com/kata/567501aec64b81e252000003/train/swift)
 - [Count the Digit](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Count_the_Digit.swift) - [Codewars](https://www.codewars.com/kata/566fc12495810954b1000030/train/swift)
+- [Waiting room](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Waiting_room.swift) - [Codewars](https://www.codewars.com/kata/542f0c36d002f8cd8a0005e5/train/swift)
