@@ -4,7 +4,7 @@
 # [![](https://www.codewars.com/users/deathlezz/badges/large)](https://www.codewars.com/users/deathlezz)
 
 ### Navigation
-[8 KYU](https://github.com/deathlezz/Codewars#8-kyu) ‎ | ‎ [7 KYU](https://github.com/deathlezz/Codewars#7-kyu)
+[8 KYU](https://github.com/deathlezz/Codewars#8-kyu) ‎ ›› ‎ [7 KYU](https://github.com/deathlezz/Codewars#7-kyu)
 
 ##
 
