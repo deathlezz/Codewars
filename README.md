@@ -61,3 +61,4 @@
 - [Triangular Treasure](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Triangular_Treasure.swift) - [Codewars](https://www.codewars.com/kata/525e5a1cb735154b320002c8/train/swift)
 - [Square Every Digit](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Square_Every_Digit.swift) - [Codewars](https://www.codewars.com/kata/546e2562b03326a88e000020/train/swift)
 - [Sum of two lowest positive integers](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Sum_of_two_lowest_positive_integers.swift) - [Codewars](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/swift)
+- [Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Extra_Perfect_Numbers_(Special_Numbers_Series_%237).swift) - [Codewars](https://www.codewars.com/kata/5a662a02e626c54e87000123/train/swift)
