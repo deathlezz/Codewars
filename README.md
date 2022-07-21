@@ -63,3 +63,4 @@
 - [Sum of two lowest positive integers](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Sum_of_two_lowest_positive_integers.swift) - [Codewars](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/swift)
 - [Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Extra_Perfect_Numbers_(Special_Numbers_Series_%237).swift) - [Codewars](https://www.codewars.com/kata/5a662a02e626c54e87000123/train/swift)
 - [Don't give me five!](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Don't_give_me_five!.swift) - [Codewars](https://www.codewars.com/kata/5813d19765d81c592200001a/train/swift)
+- [Drying Potatoes](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Drying_Potatoes.swift) - [Codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007/train/swift)
