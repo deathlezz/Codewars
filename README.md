@@ -64,3 +64,4 @@
 - [Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Extra_Perfect_Numbers_(Special_Numbers_Series_%237).swift) - [Codewars](https://www.codewars.com/kata/5a662a02e626c54e87000123/train/swift)
 - [Don't give me five!](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Don't_give_me_five!.swift) - [Codewars](https://www.codewars.com/kata/5813d19765d81c592200001a/train/swift)
 - [Drying Potatoes](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Drying_Potatoes.swift) - [Codewars](https://www.codewars.com/kata/58ce8725c835848ad6000007/train/swift)
+- [Credit Card Mask](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Credit_Card_Mask.swift) - [Codewars](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/swift)
