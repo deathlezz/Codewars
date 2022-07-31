@@ -67,3 +67,4 @@
 - [Credit Card Mask](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Credit_Card_Mask.swift) - [Codewars](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/swift)
 - [Find the nth Digit of a Number](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Find_the_nth_Digit_of_a_Number.swift) - [Codewars](https://www.codewars.com/kata/577b9960df78c19bca00007e/train/swift)
 - [Spacify](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Spacify.swift) - [Codewars](https://www.codewars.com/kata/57f8ee485cae443c4d000127/train/swift)
+- [Simple Fun #2: Circle of Numbers](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Simple_Fun_%232:_Circle_of_Numbers.swift) - [Codewars](https://www.codewars.com/kata/58841cb52a077503c4000015/train/swift)
