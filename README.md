@@ -69,3 +69,4 @@
 - [Spacify](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Spacify.swift) - [Codewars](https://www.codewars.com/kata/57f8ee485cae443c4d000127/train/swift)
 - [Simple Fun #2: Circle of Numbers](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Simple_Fun_%232:_Circle_of_Numbers.swift) - [Codewars](https://www.codewars.com/kata/58841cb52a077503c4000015/train/swift)
 - [Descending Order](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Descending_Order.swift) - [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/swift)
+- [Going to the cinema](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Going_to_the_cinema.swift) - [Codewars](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e/train/swift)
