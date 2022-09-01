@@ -71,3 +71,4 @@
 - [Descending Order](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Descending_Order.swift) - [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/swift)
 - [Going to the cinema](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Going_to_the_cinema.swift) - [Codewars](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e/train/swift)
 - [Numbers with this digit inside](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Numbers_with_this_digit_inside.swift) - [Codewars](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039/train/swift)
+- [Maximum Multiple](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Maximum_Multiple.swift) - [Codewars](https://www.codewars.com/kata/5aba780a6a176b029800041c/train/swift)
