@@ -74,3 +74,4 @@
 - [Maximum Multiple](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Maximum_Multiple.swift) - [Codewars](https://www.codewars.com/kata/5aba780a6a176b029800041c/train/swift)
 - [Shortest Word](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Shortest_Word.swift) - [Codewars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/swift)
 - [Simple Fun #152: Invite More Women?](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Simple_Fun_%23152:_Invite_More_Women%3F.swift) - [Codewars](https://www.codewars.com/kata/58acfe4ae0201e1708000075/train/swift)
+- [Disemvowel Trolls](https://github.com/deathlezz/Codewars/blob/main/7_KYU/Disemvowel_Trolls.swift) - [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/swift)
